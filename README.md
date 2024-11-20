@@ -1,1 +1,10 @@
-# JogodaCobrinha
+Este é um jogo desenvolvido no software Replit por quatro estudantes do terceiro ano do ensino médio para um projeto escolar. Consiste em um clássico jogo da cobrinha, e o escolhemos por ser intuitivo e prático, além de divertido. A versão final do jogo foi feita a partir de um tutorial disponível no YouTube, após várias tentativas de diferentes versões. O link do tutorial utilizado pode ser encontrado abaixo.
+ Usar as setas  ⬅ ⬇ ⬆ ⮕ para mover a cobrinha;
+Comer as maçãs que aparecem na tela para aumentar a cobrinha;
+Não bater nas paredes ou nela mesma;
+Fazer o máximo de pontos possível!
+ 
+Divirta-se!
+Autoras do jogo: @gabiagabiroba @isabelleisa @juliapaiva2 @jujubacomacento
+Pasta no Drive com os vídeos explicabdo a programação e como o jogo funciona: https://drive.google.com/file/d/1sA2Z_Kif7-ccMZsbAWKfarAcVHmALwDC/view?usp=drive_link 
+Tutorial utilizado: https://youtu.be/QFvqStqPCRU?feature=shared
